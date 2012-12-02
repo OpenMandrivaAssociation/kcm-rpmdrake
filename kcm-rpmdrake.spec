@@ -5,6 +5,7 @@ Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching Rpmdrake
 Version:        1.0
 Release:        6
+BuildArch:      noarch
 Source0:        %{name}-%{version}.tar.gz
 
 %description
